@@ -6,7 +6,7 @@ The project implements a **detect → decide → respond → recover** workflow,
 
 ---
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 Modern SOC environments generate large volumes of alerts, but response actions are often manual, slow, and inconsistent. Delayed containment allows attackers to move laterally, escalate privileges, or exfiltrate data.
 
@@ -18,7 +18,7 @@ This project addresses that gap by:
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 High-level flow:
 
